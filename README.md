@@ -36,6 +36,6 @@ Hi, I'm Akshat Sharma, a passionate Fullstack Developer with a strong foundation
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/aksh31at/aksh31at/blob/main/Resume/Akshat_Resume.pdf)
 - :email: as6250790@gmail.com
 
